@@ -11,7 +11,7 @@ This Tableau dashboard visualizes and explores key metrics in a healthcare datas
 - KPIs like average length of stay and bed utilization
 
 ## 📁 Files
-- `Final Project-Team23.twbx` – Tableau packaged workbook
+- `Healthcare_Dashboard.twbx` – Tableau packaged workbook
 
 ## 🔗 Dashboard Link
 https://public.tableau.com/app/profile/muhammad.adil5880/viz/HealthcareAnalyticsDashboard_17445298078480/TrendsDiseasesDashboard?publish=yes
