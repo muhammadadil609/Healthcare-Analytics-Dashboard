@@ -14,7 +14,7 @@ This Tableau dashboard visualizes and explores key metrics in a healthcare datas
 - `Final Project-Team23.twbx` – Tableau packaged workbook
 
 ## 🔗 Dashboard Link
-[View on Tableau Public](https://public.tableau.com/app/profile/yourusername/viz/dashboard-name)  
+https://public.tableau.com/app/profile/muhammad.adil5880/viz/HealthcareAnalyticsDashboard_17445298078480/TrendsDiseasesDashboard?publish=yes
 
 
 ## 🛠 Tools Used
